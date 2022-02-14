@@ -8,4 +8,11 @@ Saat ini saya sedang menempuh skripsi dan program [Bangkit](https://grow.google/
 
 Jika ingin mengetahui atau tertarik berkenalan lebih jauh, silahkan ikuti [Linkedin](https://www.linkedin.com/in/dzakwan-daffa-ramdhana-b8ab22134/) dan [Instagram](https://www.instagram.com/dzakwandaffar/), ya!.
 
+<p align="left">
+<a href="https://github.com/dzakwandaffar">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dzakwandaffar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dzakwandaffar&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 **Thank you, friends**
