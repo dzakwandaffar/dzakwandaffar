@@ -1,6 +1,6 @@
-# Hi, Friends 👋
+# Halo 👋
 
-Perkenalkan nama saya **Dzakwan Daffa Ramdhana**.
+Perkenalkan, saya **Dzakwan Daffa Ramdhana**.
 
 Saya seorang mahasiswa di Universitas Brawijaya, [Fakultas Ilmu Komputer](https://filkom.ub.ac.id/).\
 Saya berada diprogram studi [Teknik Komputer](tkom.filkom.ub.ac.id),\
@@ -15,4 +15,4 @@ Jika ingin mengetahui atau tertarik berkenalan lebih jauh, silahkan ikuti [Linke
 </a>
 </p>
 
-**Thank you, friends**
+**Terima kasih**
